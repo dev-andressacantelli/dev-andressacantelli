@@ -1,5 +1,5 @@
-- 👩‍💻 Estagiária em Desenvolvimento Web 
-- 🔭 Foco em JavaScript, React.js, Node.js e Python
+- 👩‍💻 Estagiária em Desenvolvimento - Micro Serviços
+- 🔭 Foco em C#, .netCore, .netFramework
 - ⚡ Mudança de carreira
 - 📐 Formada em Arquitetura e Urbanismo
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
