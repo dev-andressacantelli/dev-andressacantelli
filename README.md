@@ -1,8 +1,5 @@
-- 👩‍💻 Estagiária em Desenvolvimento - Micro Serviços
+- 👩‍💻 Microsserviços
 - 🔭 Foco em C#, .netCore, .netFramework
-- ⚡ Mudança de carreira
-- 📐 Formada em Arquitetura e Urbanismo
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas
 
 <div>
   <a href="https://github.com/dev-andressacantelli">
